@@ -1,7 +1,7 @@
 .body {
-  font-family: "Roboto", sans-serif;
+  font-family: "Roboto", sans-serif;  
   color: #434455;
-  background-color: #ffffff;
+  background-color: #FFFFFF;
 }
 ul {
   list-style: none;
@@ -46,13 +46,16 @@ a {
   line-height: 24px;
   letter-spacing: 0.02em;
   text-align: left;
+  
 }
 .header-menu-link:hover {
   color: #404bbf;
 }
-.header-menu-link:active {
+
+.header-menu-link:focus {
   color: #404bbf;
 }
+
 .address {
   font-style: normal;
 }
@@ -70,6 +73,9 @@ a {
   text-align: left;
 }
 .address-menu-link:hover {
+  color: #404bbf;
+}
+.address-menu-link:focus {
   color: #404bbf;
 }
 .order {
@@ -97,18 +103,20 @@ a {
   gap: 10px;
   border-radius: 4px 0px 0px 0px;
   opacity: 0px;
+  cursor: pointer;
 }
 .button-title:hover,
-.button-title:active {
+.button-title:active,
+.button-title:focus {
   background-color: #404bbf;
 }
 .button-text {
   color: #ffffff;
   font-family: "Roboto", sans-serif;
-  font-weight: Medium;
+  font-weight: 500;
   font-size: 16px;
-  line-height: 24px;
-  letter-spacing: 4%;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
 }
 
 .features {
@@ -143,8 +151,9 @@ a {
   font-family: "Roboto", sans-serif;
   font-size: 36px;
   font-weight: 700;
-  line-height: 40px;
+  line-height: 1.11;
   letter-spacing: 0.02em;
+  text-transform: capitalize;
 }
 .ourteam-menu {
 }
@@ -159,7 +168,7 @@ a {
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
-  letter-spacing: 0.4px;
+  letter-spacing: 0.02em;
 }
 .ourteam-menu-text {
   color: #434455;
