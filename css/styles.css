@@ -9,10 +9,15 @@ ul {
 a {
   text-decoration: none;
 }
-.header {
-}
-.header-navigation {
-}
+
+
+
+
+
+
+
+
+
 .header-logo {
   color: #4d5ae5;
   font-family: "Raleway", sans-serif;
@@ -32,8 +37,7 @@ a {
   letter-spacing: 0.54px;
   text-transform: uppercase;
 }
-.header-menu {
-}
+
 .header-menu-item {
   color: #2e2f42;
 }
@@ -59,10 +63,7 @@ a {
 .address {
   font-style: normal;
 }
-.address-menu {
-}
-.address-menu-item {
-}
+
 .address-menu-link {
   color: #434455;
   font-family: "Roboto", sans-serif;
@@ -92,6 +93,11 @@ a {
   text-align: center;
 }
 
+
+
+
+
+
 .button-title {
   background: #4D5AE5;
   font-weight: 500;
@@ -115,6 +121,12 @@ a {
   letter-spacing: 0.64px;
 }
 
+
+
+
+
+
+
 .features-menu-title {
   color: #2e2f42;
   font-size: 20px;
@@ -131,6 +143,14 @@ a {
   letter-spacing: 0.02em;
   text-align: left;
 }
+
+
+
+
+
+
+
+
 
 .ourteam {
   background-color: #f4f4fd;
@@ -166,6 +186,11 @@ a {
   text-align: center;
 }
 
+
+
+
+
+
 .Portfolio-title {
   color: #2E2F42;
     text-align: center;
@@ -190,6 +215,12 @@ a {
   line-height: 1.5;
   letter-spacing: 0.32px;
 }
+
+
+
+
+
+
 
 .footer {
   background-color: #2e2f42;
