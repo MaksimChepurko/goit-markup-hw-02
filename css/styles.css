@@ -189,7 +189,9 @@ a {
 
 
 
-
+.Portfolio-menu-item {
+  background-color: #E7E9FC;
+}
 
 .Portfolio-title {
   color: #2E2F42;
@@ -205,7 +207,7 @@ a {
   color: #2E2F42;
   font-size: 20px;
   font-weight: 500;
-  line-height: 1.11;
+  line-height: 1.2;
   letter-spacing: 0.4px;
 }
 .Portfolio-menu-text {
