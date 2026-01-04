@@ -1,7 +1,7 @@
 .body {
-  font-family: "Roboto", sans-serif;  
+  font-family: "Roboto", sans-serif;
   color: #434455;
-  background-color: #FFFFFF;
+  background-color: #ffffff;
 }
 ul {
   list-style: none;
@@ -10,21 +10,13 @@ a {
   text-decoration: none;
 }
 
-
-
-
-
-
-
-
-
 .header-logo {
   color: #4d5ae5;
   font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-weight: 700;
   line-height: 1.17;
-  letter-spacing: 0.54px;
+  letter-spacing: 0.03em;
   text-transform: uppercase;
 }
 .header-logo-color {
@@ -33,7 +25,7 @@ a {
   font-size: 18px;
   font-weight: 700;
   line-height: 1.17;
-  letter-spacing: 0.54px;
+  letter-spacing: 0.03em;
   text-transform: uppercase;
 }
 
@@ -47,8 +39,7 @@ a {
   font-weight: 500;
   line-height: 24px;
   letter-spacing: 0.02em;
-  text-align: left;
-  
+  text-align:left;
 }
 .header-menu-link:hover {
   color: #404bbf;
@@ -76,6 +67,12 @@ a {
 .address-menu-link:focus {
   color: #404bbf;
 }
+
+
+
+
+
+
 .order {
   background-color: #2e2f42;
   text-align: center;
@@ -89,13 +86,8 @@ a {
   text-align: center;
 }
 
-
-
-
-
-
 .button-title {
-  background: #4D5AE5;
+  background: #4d5ae5;
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.04em;
@@ -103,14 +95,14 @@ a {
   cursor: pointer;
 }
 .button-title:hover {
-  background-color:#404bbf ;
+  background-color: #404bbf;
 }
 
 .button-title:focus {
   background-color: #404bbf;
 }
 .button-text {
-  color: #FFF;
+  color: #fff;
   font-family: "Roboto", sans-serif;
   font-size: 16px;
   font-weight: 500;
@@ -139,14 +131,6 @@ a {
   letter-spacing: 0.02em;
   text-align: left;
 }
-
-
-
-
-
-
-
-
 
 .ourteam {
   background-color: #f4f4fd;
@@ -179,8 +163,6 @@ a {
   letter-spacing: 0.02em;
   text-align: left;
 }
-
-
 
 .footer {
   background-color: #2e2f42;
